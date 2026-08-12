@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    background-color: turquoise;
+    border: 2px solid blue;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+}
+
+.box {
+    background-color: lightcoral;
+    border: 2px solid red;
+    flex: 0 0 auto;
+    height: 50px;
+    width: 50px;
+}
