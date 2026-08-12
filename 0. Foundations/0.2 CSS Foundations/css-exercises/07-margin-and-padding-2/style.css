@@ -1,0 +1,22 @@
+.title,
+.content,
+.button-container {
+    background-color: #2196F3; /* peacock blue */
+    font-size: 16px;
+    padding: 8px;
+    font-family: Arial, sans-serif;
+    margin: 8px;
+    border: 0;
+}
+
+.button-container {
+    display: grid;
+    place-items: center;
+}
+
+button {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}

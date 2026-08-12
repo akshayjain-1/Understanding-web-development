@@ -1,0 +1,26 @@
+.odd {
+    color: rgba(0, 0, 0, 1);
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: arial;
+}
+
+.cool {
+    font-size: large;
+}
+
+#first,
+#second {
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+#first {
+    color: rgba(0, 0, 255, 1);
+    font-size: larger;
+}
+
+#second {
+    color: rgba(0, 0, 0, 1);
+    background-color: rgba(0, 128, 0, 0.3);
+    font-size: large;
+}
