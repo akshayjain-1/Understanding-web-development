@@ -1,0 +1,2 @@
+- Develop the UI and and use JS for Rock Paper Scissor project, shift away from console.log()
+- Project 3 - Etch-a-sketch
